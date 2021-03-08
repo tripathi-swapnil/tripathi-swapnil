@@ -47,7 +47,7 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 
 
 ### 🌱 &nbsp; Learning:
-![][b-rust]
+![][b-python]
 
 <!-- Badge Links -->
 [b-gitwar]: https://gitwar.herokuapp.com/badge?username=tripathi-swapnil&logo=appveyor&color=brightgreen
