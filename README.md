@@ -50,12 +50,12 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 ![][b-rust]
 
 <!-- Badge Links -->
-[b-gitwar]: https://gitwar.herokuapp.com/badge?username=imjeevesh&logo=appveyor&color=brightgreen
-[b-linkedin]: https://raster.shields.io/badge/jeeveshrawat-0077B5?style=flat-square&logo=linkedin
-[b-instagram]: https://raster.shields.io/badge/@imjeevesh-E4405F?style=flat-square&logo=instagram&logoColor=white
-[b-gmail]: https://raster.shields.io/badge/jrawat2009-E4405F?style=flat-square&logo=gmail&logoColor=white
-[b-yahoomail]: https://raster.shields.io/badge/jeeveshrawat-6001D2?style=flat-square&logo=yahoo!
-[b-website]: https://raster.shields.io/badge/imjeevesh.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white
+[b-gitwar]: https://gitwar.herokuapp.com/badge?username=tripathi-swapnil&logo=appveyor&color=brightgreen
+[b-linkedin]: https://raster.shields.io/badge/tripathi-swapnil-0077B5?style=flat-square&logo=linkedin
+[b-instagram]: https://raster.shields.io/badge/@tripathi-swapnil-E4405F?style=flat-square&logo=instagram&logoColor=white
+[b-gmail]: https://raster.shields.io/badge/nswapt-E4405F?style=flat-square&logo=gmail&logoColor=white
+[b-yahoomail]: https://raster.shields.io/badge/tripathi-swapnil-6001D2?style=flat-square&logo=yahoo!
+[b-website]: https://raster.shields.io/badge/tripathi-swapnil.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white
 
 [b-mac]: https://raster.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white
 [b-linux]: https://raster.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
