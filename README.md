@@ -87,3 +87,5 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 [b-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
 [b-webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
 [b-homebrew]: https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black
+[b-php]: https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logoColor=black
+
