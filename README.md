@@ -12,7 +12,7 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 [![][b-website]]()
 [![][b-gmail]](mailto:nswapt@gmail.com)
 
-### 📫 &nbsp; Leet Code Profile
+### :computer: &nbsp; Leet Code Profile
 [![][b-leetcode]](https://leetcode.com/Anshdesire/)
 
 ### 🔭 &nbsp; I’m currently working on:
