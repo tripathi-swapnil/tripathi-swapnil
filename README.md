@@ -12,6 +12,9 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 [![][b-website]]()
 [![][b-gmail]](mailto:nswapt@gmail.com)
 
+### 📫 &nbsp; Leet Code Profile
+[![][b-leetcode]](https://leetcode.com/Anshdesire/)
+
 ### 🔭 &nbsp; I’m currently working on:
 ![][b-angular]
 ![][b-typescript]
@@ -64,6 +67,7 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 [b-intelli-j]: https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea
 [b-vscode]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code
 
+[b-leetcode]: https://img.shields.io/badge/LeetCode-007ACC?style=for-the-badge&logo=Leetcode
 [b-typescript]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript
 [b-javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [b-rust]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust
