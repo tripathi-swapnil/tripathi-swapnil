@@ -2,9 +2,9 @@
 
 I am Swapnil Tripathi.
 - 💼  &nbsp; L4 Engineer at [EPAM Systems](https://www.epam.com/)
-- 🌱  &nbsp; Learning Python.
+- 🌱  &nbsp; Learning Machine Learning.
 
-A Full Stack Developer with around 8 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, enterprise and high-performance web technologies.
+A Full Stack Lead Developer with around 10+ years of experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in digital transformation of insurance, e-commerce, enterprise industries.
 
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/tripathiswapnil)
@@ -25,6 +25,10 @@ A Full Stack Developer with around 8 years of related experience, a wide range o
 
 ### ⚡ &nbsp; Technologies and Tools:
 ![][b-typescript]
+![][b-data science]
+![][b-machine learning]
+![][b-LLM]
+![][b-generative-AI]
 ![][b-javascript]
 ![][b-angular]
 ![][b-rxjs]
